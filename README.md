@@ -7,6 +7,7 @@ Steps to run this website:
 1. Clone the repository to localhost(root) folder of hosting server.(use apache or nginx)
 2. Use http://localhost/ to open your webiste laocally.
 3. Use http://(yourserverip)/ to open your webiste after hosting.
+
 This website is for Book Readers.
 
 Project URL:http://13.233.108.1/books/
